@@ -51,9 +51,3 @@ Untuk melihat riwayat pengembangan, gunakan perintah:
 
 `git log --oneline --graph --decorate`
 
-## Identitas Pengembang
-
-- Nama: LOVING TIARA ADINDA
-- NIM: 109062500120
-- Program Studi: S1 Sistem Informasi
-- Universitas: Telkom University Purwokerto
